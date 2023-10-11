@@ -1,0 +1,203 @@
+file:: [魔幻玩具铺_(安吉拉·卡特)_B0099MS56Q_Chinese_(Z-Library)_1697014072088_0.pdf](../assets/魔幻玩具铺_(安吉拉·卡特)_B0099MS56Q_Chinese_(Z-Library)_1697014072088_0.pdf)
+file-path:: ../assets/魔幻玩具铺_(安吉拉·卡特)_B0099MS56Q_Chinese_(Z-Library)_1697014072088_0.pdf
+
+- 这年夏天，梅拉尼已经具有了发展完备的罪恶感。
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: yellow
+  id:: 652672a6-9dd2-4087-b4d7-5d764d639cce
+- “我觉得死是……是⼀件很难理解的事情。”梅拉尼说得很慢，她找不到合适的词表达她的意思。
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: yellow
+  id:: 65267a0e-19c7-41d4-8ffa-2f8e65544ab4
+- 梅拉尼认为，死是⼀间地下室⼩屋，⼈被关在⾥⾯，根本⻅不到光。
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: yellow
+  id:: 65267a29-1114-4624-b3be-240b45842c24
+- 她对着镜⾥头戴⽩雏菊的⼥孩眨了眨棕⾊的⼤眼睛，说了她想要的未来：“绝不能是平凡乏味的。不，迷⼈的。必须是迷⼈的⽣活。”⼀朵⽩雏菊从头发⾥掉下来，掉落在地，像是来⾃天庭的模糊的神启，略带嘲弄的启⽰。
+  ls-type:: annotation
+  hl-page:: 12
+  hl-color:: yellow
+  id:: 65269c8d-157e-464f-8c95-5436c962fe9c
+- 罗彻斯特太太
+  ls-type:: annotation
+  hl-page:: 13
+  hl-color:: green
+  id:: 65269e5a-c40a-4a1c-ae2b-8a477960c055
+- 梅拉尼
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: green
+  id:: 65269e69-b48e-425c-837f-963d09a58f15
+- 兰道太太
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: green
+  id:: 65269e76-6afb-49a6-9283-4a6ab6f6a5fe
+- 乔纳森
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: green
+  id:: 65269e82-0a6e-4340-be1b-4197bf1c5350
+- 维多利亚
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: green
+  id:: 65269e85-e27c-4fbd-bf62-c0bc001b5e7c
+- 妈妈
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: green
+  id:: 65269e8d-5baa-4e88-8ace-e71e2242a7a9
+- 爸爸
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: green
+  id:: 65269e8f-b1a5-43ce-bda5-2848befd6be1
+- 兰道太太肥胖、衰⽼、丑陋，并且实际上从未结婚。
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 65269fe1-ff6e-40c9-8608-e0c47086073c
+- 兰道太太⻓有⼀些带⽑的痣，装着巨⼤的假⽛。她说话的腔调像宫廷滑稽戏⾥的公爵夫⼈，有⼀种来⾃古⽼的幻想世界的威严。
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 6526a02d-e5a7-429d-adc9-93c97efe6957
+- 乔纳森是个矮⼩，⾁鼻⼦，挺漂亮的男孩，戴灰⾊法兰绒校帽，右边或左边的膝盖上总有刚愈合好的伤疤，伤疤上的痂⽚总是处于正要脱落的状态。
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: yellow
+  id:: 6526a0fb-ac5d-4323-b074-6feddf6c69f0
+- 他们的⽗亲喜欢礼拜天全家都去教堂。在家的⽇⼦，有时他也念训诫。他⽣在索尔福德，不过既然再也不⽤去想索尔福德，他也乐于扮个殷勤温柔的乡绅。
+  ls-type:: annotation
+  hl-page:: 12
+  hl-color:: yellow
+  id:: 6526a2ce-cda8-483e-8b07-813641c73b20
+- 阁楼⾥的罗彻斯特太太
+  ls-type:: annotation
+  hl-page:: 13
+  hl-color:: yellow
+  id:: 6526a37a-2a27-4175-8a61-ce83c9fd0717
+- 乔纳森最喜爱的赞美诗是“天⽗救⼈有⼤权能”。
+  ls-type:: annotation
+  hl-page:: 13
+  hl-color:: yellow
+  id:: 6526a3ae-3a6b-40df-a9ac-14607ba4d25d
+- 教区牧师
+  ls-type:: annotation
+  hl-page:: 13
+  hl-color:: green
+  id:: 6526a3bb-6d15-479d-baae-4784a4b18a97
+- 是个苍⽩虚弱，喜欢钓⻥的男⼈，他也经常说些得⼈如得⻥之类的苍⽩虚弱的笑话。
+  ls-type:: annotation
+  hl-page:: 13
+  hl-color:: yellow
+  id:: 6526a412-faf6-40f9-9384-0d65b97ac646
+- 梅拉尼的祈祷：“求上帝保佑，让我结婚吧，或者，让我拥有性⽣活。”
+  ls-type:: annotation
+  hl-page:: 13
+  hl-color:: yellow
+  id:: 6526a485-c4cd-41e7-934d-87308b0f1801
+- 烟⽃是⽗亲的标志
+  ls-type:: annotation
+  hl-page:: 15
+  hl-color:: yellow
+  id:: 6526a540-a420-49ba-a910-38d1e807af24
+- ⺟亲总是看上去像穿着她那套⿊⾊的进城套服
+  ls-type:: annotation
+  hl-page:: 15
+  hl-color:: yellow
+  id:: 6526a576-6a18-4e46-8d40-5b44453a2787
+- 她是个格外强调着装的⼥⼈，全⾝都要着装，任何天⽓⾥都穿着⻓袜，准备外出时，总要戴好⼿套和帽⼦。
+  ls-type:: annotation
+  hl-page:: 15
+  hl-color:: yellow
+  id:: 6526a5a1-8fac-4658-8eb8-db2251965039
+- ⽗亲总是⼀种样⼦：斜纹软呢和烟草，除了斜纹软呢、烟草和打字机⾊带，就再也没有别的，这是些基本元素，他是位混合体。
+  ls-type:: annotation
+  hl-page:: 15
+  hl-color:: yellow
+  id:: 6526a5cb-7938-41de-86f3-6e180144b107
+- 格特鲁德姑姑
+  ls-type:: annotation
+  hl-page:: 16
+  hl-color:: green
+  id:: 6526a6be-8ab0-4b28-927f-0841eb6e6902
+- 祖⽗
+  ls-type:: annotation
+  hl-page:: 17
+  hl-color:: green
+  id:: 6526a6c8-9049-4946-aa92-a50327c990b9
+- 爷爷
+  ls-type:: annotation
+  hl-page:: 17
+  hl-color:: green
+  id:: 6526a6cd-81c7-4af3-b51b-080a669ccc1b
+- 哈⾥叔叔
+  ls-type:: annotation
+  hl-page:: 17
+  hl-color:: green
+  id:: 6526a6d6-996b-4e13-a33c-10d104388ff4
+- 罗斯婶婶
+  ls-type:: annotation
+  hl-page:: 17
+  hl-color:: green
+  id:: 6526a6da-1dd7-4e3b-8e3f-fd065d9bab44
+- 菲利普舅舅
+  ls-type:: annotation
+  hl-page:: 17
+  hl-color:: green
+  id:: 6526a6f0-e2c9-49ea-86fa-8a12d58429d1
+- 格特鲁德姑姑的头发卷烫得太⼩，⼀双⼤笨脚紧紧地夹在鞋⼦⾥，她抓着那个发光的造型新奇的⽪⼿袋就像抓着全家⼈⼀个星期的伙⻝费。
+  ls-type:: annotation
+  hl-page:: 16
+  hl-color:: yellow
+  id:: 6526a6fc-be93-4b5a-af2d-3ec021673340
+- 菲利普舅舅戴着⼀顶西部⽚⾥密西西⽐赌徒戴的那种平顶卷沿⿊帽，鞋带领带上系着歪歪扭扭的蝴蝶结。他的礼服是⿊的，裤⼦很瘦，背⼼够⻓，不过整体效果却和优雅⼀点都不沾边。⿊帽下的头发看起来是⽩⾊的，或者，⾄少是⾮常浅的⾦⾊，⼋字胡盖住了他的嘴，不可能猜出他的年龄。不过，不管怎样，他看起来更⽼⽽不是年轻。他个⼦很⾼，体型中等，紧握的双⼿靠在⼀根乌⽊拐杖的银捏⼿上，⾯部表情空虚呆板，⾮常呆板，甚⾄有些⽆聊。
+  ls-type:: annotation
+  hl-page:: 17
+  hl-color:: yellow
+  id:: 6526a77a-062a-468f-a00c-6cd8d973b5d6
+- ⺟亲扔掉了这个⽊偶盒，⽗⺟亲⼀致认为这是⼀件⽋妥的礼物，⽽且品位很坏。从那以后，再也不给菲利普舅舅寄贺卡了，本来就脆弱的亲戚关系永久断了。
+  ls-type:: annotation
+  hl-page:: 18
+  hl-color:: yellow
+  id:: 6526a8ea-8615-4cd1-bbf1-7e967b324de1
+- 虽然和他的家庭出⾝有些不符，但爸爸⼀定有些波希⽶亚作⻛，除此之外，他过着⽆聊的单⾝⽣活。他住在⼀间位于布鲁姆伯利的卧室兼起居室⾥，⽤⼩煤⽓炉煮咖啡，谈论⾃由性爱，D．H．劳伦斯和⿊暗众神。
+  ls-type:: annotation
+  hl-page:: 18
+  hl-color:: yellow
+  id:: 6526a954-0240-457f-81be-555428f04add
+- ⺟亲是位性格感伤的⼥⼈。
+  ls-type:: annotation
+  hl-page:: 19
+  hl-color:: yellow
+  id:: 6526a9e5-d109-474f-9638-d48667af162a
+- 在披散流泻的⿊发映衬下，她的脸更加洁⽩了，婚礼服反射的微光起了陌⽣的美化作⽤，胸部凸起的轮廓被抹去了，现在她是维多利亚时代的贞洁处⼥。她拖着⼀顶堂皇的帐篷移动，它令⼈惊奇地衬托出她的可怜和苗条，她像座枝状⼤烛台⼀样散发光芒。她明⽩⾃⼰戴不好⾯纱，她抓过那顶花冠，扣在头上。⼩珍珠黯淡的闪烁像在眨眼，或者就像⼈们经常讲的，珍珠是⻥的眼泪。虽然⺟亲的这些珍珠是仿造珍珠，但不管怎样，它们闪烁着。
+  ls-type:: annotation
+  hl-page:: 21
+  hl-color:: yellow
+  id:: 6526abde-4e02-4767-a8e5-0253d0708982
+- 花园⾥的花朵都拢成了杯⼦，散发着猜想不出的午夜甜⾹，⻘草微微波动，窃窃私语，使夜⾊更显沉寂。这种静⽌就像是孤⾝⼀⼈站在世界尽头的静⽌。在⽩缎的甲壳下，她是世界上最后⼀个仅存的⼥⼈，她站在深不可测的苍穹下，兴奋地打颤。
+  ls-type:: annotation
+  hl-page:: 22
+  hl-color:: yellow
+  id:: 6526ac05-47cd-4a76-a8c5-0076766dcd88
+- 她狂喜打颤。为什么？怎么了？除了她⾃⼰，她不了解也不关⼼别的。巨⼤的云层堆积⼜消散，天空布满了闪烁的星星。世界，世界上只存在这座花园，天空⼀样的空，像永⽣⼀样永⽆⽌境。
+  ls-type:: annotation
+  hl-page:: 23
+  hl-color:: yellow
+  id:: 6526ac29-fd92-485d-8d7c-ac0d6cd68dd1
+- ⼀轮圆⽉。树⽊像是轮船的载重吃⽔线，满载的货物是⼊梦的⻜⻦。踩在露湿的⻘草上，感觉像只驯顺⼩野兽⽤潮乎乎的⾆头舔她的脚；现在，草⽐⽩天更⾼，更茂盛。她的礼服在地上拖着，留下⼀道闪烁的踪迹。静⽌的空⽓有着奇迹般的清澈。阴影⾥的⼀切——树枝、花朵都像是在⽔中摇曳，突现出⾃⾝阴暗精确的轮廓。她迈步缓慢、安静，如同是在⽔下潜⾏。她⽤嘴巴颤抖着吸⽓，舔尝这⿊暗的酒酿。丛⽣的丁⾹绊住了她。⼀只多⽑的夜游⼩动物急速窜跑过她前⾯的草地，慌乱地嗅着钻进草堆，看不⻅了，这个⼩东西，不管它是什么，不会⽐⻛吹落的树叶具有更多哲学意义上实在的客体性。
+  ls-type:: annotation
+  hl-page:: 23
+  hl-color:: yellow
+  id:: 6526ac54-d7c2-4d9b-b3d1-0be8c402361a
+- 上帝该有多么孤独啊，七岁的梅拉尼这样想。现在她⼗五岁，她却穿着⼀件已经疯了的婚礼服，仰视着⽆际的天空，迷失在永⽣⾥。
+  ls-type:: annotation
+  hl-page:: 23
+  hl-color:: yellow
+  id:: 6526ac79-7414-4f57-8ece-071d529453fc
