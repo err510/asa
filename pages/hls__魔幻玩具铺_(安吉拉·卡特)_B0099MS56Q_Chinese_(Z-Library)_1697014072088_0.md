@@ -349,3 +349,58 @@ file-path:: ../assets/魔幻玩具铺_(安吉拉·卡特)_B0099MS56Q_Chinese_(Z-
   hl-page:: 48
   hl-color:: yellow
   id:: 6527a863-f6a8-4a33-8d20-ece981a6f042
+- 梅拉尼注意到这个⼥⼈的⻝指被粉笔灰弄得僵硬粗糙了。如果她能开⼝，她⼀定是个健谈的⼥⼈。
+  ls-type:: annotation
+  hl-page:: 49
+  hl-color:: yellow
+  id:: 6527cf93-213a-40b1-a12e-84d85df7f33e
+- 为什么费因是唯⼀说话的⼈呢？嗯，玛格丽特舅妈不能说话，弗朗⾟不愿意说话。
+  ls-type:: annotation
+  hl-page:: 51
+  hl-color:: yellow
+  id:: 6527d039-eb4b-433b-83cc-d74aff22dfd0
+- 乔纳森住的是⼀间位置很⾼、空⽓流通的阁楼，新刷⽩的，⼀张⼩铁床，床罩是缝在⼀起的针织正⽅块，就像难⺠毯。窗⼾开在天花板上，能清楚地看⻅雄伟、弯曲的⼭⾕——灯⽕通明，引⼈⼊胜，夜间盛放的城市花床。
+  ls-type:: annotation
+  hl-page:: 51
+  hl-color:: yellow
+  id:: 6527d048-961e-4622-a2ce-2e0e4696bd3f
+- 她和维多利亚住在乔纳森楼下，⼀间狭⻓，天花板很低的房间，贴了肥⼤深红⾊玫瑰花的壁纸。梅拉尼睡⼀张闪亮的⻩铜床，床下摆着⽩⾊圆肚夜壶。
+  ls-type:: annotation
+  hl-page:: 52
+  hl-color:: yellow
+  id:: 6527d087-64da-44f4-bcfe-c7bef2332738
+- 有⼀⼝散发樟脑球味的壁橱给她们放⾐服。还有⼀个涂成浅蓝⾊的粘着从种⼦袋上切割下来的花做装饰的抽屉柜。壁炉架上⾯有⼀张镶在⽵框⾥的《属于全世界的光》 [4] 的复制品。房间⾥没有镜⼦。电灯泡挂在⼀个球形的蓝⾊⽇本纸灯笼⾥，灯笼上盘绕着⼀条蜷曲的绿⾊墨⻥，照出来的光线⼜冷⼜让⼈眩晕。在窗台上有⼀盆天竺葵，还开着粉红的花。窗帘是带⽩⽅格的蓝棉布。梅拉尼向窗外张望，看到很远处，有个⼩的，砌着围墙的城内丛林公园，园⾥是⼀⽚⿊糊糊的灌⽊丛。
+  ls-type:: annotation
+  hl-page:: 52
+  hl-color:: yellow
+  id:: 6527d09f-c2ca-4bc2-bc59-ac875594ecc9
+- 他们围坐着⼀张桃花⼼⽊的圆餐桌吃饭，上⾯铺了浆硬的⽩桌布，饭厅⾥摆满了笨重的家具。庞⼤的椅⼦和碗柜间已没了能挪动的缝隙。四⾯墙上的棕⾊树叶纹饰壁纸是很久以前的，已经遍布潮渍。
+  ls-type:: annotation
+  hl-page:: 54
+  hl-color:: yellow
+  id:: 6527d10b-7ba8-4770-b7df-6b2885e7c6ea
+- 狗在桌下。它⽤湿鼻⼦碰着每个⼈的膝盖，乞求⼀点佳肴，⼀只粉红眼睛的⽩⽑⽃⽜梗。
+  ls-type:: annotation
+  hl-page:: 54
+  hl-color:: yellow
+  id:: 6527d124-6851-4a05-84aa-f6f92672eb11
+- “我们欢迎所有的来宾。”他的声⾳⾥好像带上了很少使⽤的⻔的吱嘎声。
+  ls-type:: annotation
+  hl-page:: 55
+  hl-color:: yellow
+  id:: 6527d6be-f944-4f8a-819a-9b92ed813bc5
+- 这乐曲是悼词，为失落的和逝去的⼀切所爱；是倾吐，倾吐着那些她以为太过深重⽽⽆法倾吐的悲痛。在乐曲怜悯的抚慰⾥，她觉得全⾝灼热刺痛。
+  ls-type:: annotation
+  hl-page:: 58
+  hl-color:: yellow
+  id:: 6527d730-b390-417e-9460-fd7b1f72972f
+- 这是只敏感，有⾳乐感的狗。
+  ls-type:: annotation
+  hl-page:: 58
+  hl-color:: yellow
+  id:: 6527d744-065f-4f8e-a965-7e6cef7921c0
+- 当红发⼈以为没⼈在看他们的时候，他们就这样消遣时光，寻欢作乐。
+  ls-type:: annotation
+  hl-page:: 60
+  hl-color:: yellow
+  id:: 6527d7a6-f4d5-48fc-a78d-b8b5eb8053a0
