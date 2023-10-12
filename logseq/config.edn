@@ -417,4 +417,4 @@
  :feature/enable-flashcards? true
  :graph/settings {:journal? false}
  :feature/enable-journals? false
- :default-home {:page "contents"}}
+ :default-home {:page "Contents"}}
