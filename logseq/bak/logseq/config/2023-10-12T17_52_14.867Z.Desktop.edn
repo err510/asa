@@ -414,4 +414,7 @@
  :file/name-format :triple-lowbar
  :journal/page-title-format "yyyy-MM-dd EEEE"
  :publishing/all-pages-public? true
- :feature/enable-flashcards? false}
+ :feature/enable-flashcards? true
+ :graph/settings {:journal? false}
+ :feature/enable-journals? true
+ :default-home {:page "contents"}}
