@@ -2,10 +2,8 @@ public:: true
 
 - ![tx.jpg](../assets/tx_1697286591566_0.jpg){:height 20, :width 20}  ==[[野火漫山秋]]==
 - 📝 [[日志]]
-  collapsed:: true
 	- [[2023]]
 		- [[2023-10-14 Saturday]]
-		- [[2023-10-13 Friday]]
 		- [[2023-10-12 Thursday]]
 		- [[2023-10-11 Wednesday]]
 		- [[2023-09-26 Tuesday]]
