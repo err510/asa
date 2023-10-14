@@ -1,5 +1,4 @@
-public:: true
-
+- 测试
 - ![魔幻玩具铺 (安吉拉·卡特)_B0099MS56Q_Chinese (Z-Library).pdf](../assets/魔幻玩具铺_(安吉拉·卡特)_B0099MS56Q_Chinese_(Z-Library)_1697014072088_0.pdf)
 - [[Author]]: 安吉拉·卡特
 - [[ISBN]]:B0099MS56Q
@@ -7,8 +6,3 @@ public:: true
 - [[Year-Published]]:2008
 - [[Publisher]]:浙江文艺出版社
 - Language:Chinese
-- ---
-- [[魔幻玩具铺-人物]]
-- [[魔幻玩具铺-背景]]
-- [[魔幻玩具铺-故事]]
--

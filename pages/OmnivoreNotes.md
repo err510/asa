@@ -2,6 +2,20 @@ public:: false
 
 -
 - ## 🔖 Articles
+	- [Kindle 笔记导出方法大合集 - 少数派](https://omnivore.app/me/kindle-18b2dbc3983)
+	  collapsed:: true
+	  site:: [少数派 - 高品质数字消费指南](https://client.sspai.com/post/73662)
+	  author:: 文猫
+		- ### Highlights
+			- dateHighlighted:: [[2023-10-14 Saturday]]
+			  #+BEGIN_QUOTE
+			  Kindle 设备里有一个 My Clippings.txt 文件，这个文件保存了该 Kindle 的所有书籍的标注、笔记以及书签信息，以下的第三方工具基本都是基于这个文件做的，所以不论是从电子书商店下载的还是自己导入的，只要做过笔记都会存在这个 TXT 文件里。
+			  
+			  由于这个 My Clippings.txt 文件是存在 Kindle 设备上的，下面介绍的第三方工具都需要**插数据线**来读取数据，通过解析这个 txt 文件，才能获取本 Kindle 上所有的读书笔记。 [](https://omnivore.app/me/kindle-18b2dbc3983#ab0a796e-918f-4310-b6e4-306fd06e8864) 
+			  #+END_QUOTE
+			  #+BEGIN_EXAMPLE
+			  
+			  #+END_EXAMPLE
 	- [解决git push 错误error: src refspec master does not match any. error: failed to push some refs to_蜗牛有力量的博客-CSDN博客](https://omnivore.app/me/git-push-error-src-refspec-master-does-not-match-any-error-faile-18aca08d328)
 	  collapsed:: true
 	  site:: [blog.csdn.net](https://blog.csdn.net/wenb1bai/article/details/89363711)
