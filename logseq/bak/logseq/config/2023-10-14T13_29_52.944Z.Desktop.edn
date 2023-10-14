@@ -413,6 +413,8 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :journal/page-title-format "yyyy-MM-dd EEEE"
- :publishing/all-pages-public? false
+ :publishing/all-pages-public? true
  :feature/enable-flashcards? true
- :graph/settings {:journal? false}}
+ :graph/settings {:journal? false}
+ :feature/enable-journals? false
+ :default-home {:page "Contents"}}
