@@ -13,7 +13,9 @@ public:: true
   collapsed:: true
 	- [[OmnivoreNotes]]
 	- 📖 [[阅读]]
+	  collapsed:: true
 		- [[魔幻玩具铺]]
+		  collapsed:: true
 			- [[魔幻玩具铺-kindleNotes]]
 			- [[魔幻玩具铺-人物]]
 			- [[魔幻玩具铺-背景]]
